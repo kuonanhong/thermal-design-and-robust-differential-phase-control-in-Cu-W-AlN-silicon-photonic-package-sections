@@ -1,0 +1,9 @@
+# Adds the independent full-vector optical verification to requirements.txt.
+# Original solver is vendored under code/vendor/wgmodes with MIT license.
+# Optional upstream install (not required by the supplied wrapper):
+# modesolver @ git+https://github.com/thomas-e-murphy/modesolver.git@6f54c5e82a8de9d7c78a1c86eef2d658b45bc443
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+Pillow==12.3.0
+shapely==2.1.2
